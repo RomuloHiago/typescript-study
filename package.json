@@ -1,0 +1,21 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "Studying Typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tsx"
+
+  },
+  "keywords": [],
+  "author": {
+    "name": "Romulo Hiago",
+    "email": "romulo1099@gmail.com",
+    "url": "https://github.com/RomuloHiago"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
